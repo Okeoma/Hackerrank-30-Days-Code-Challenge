@@ -3,7 +3,7 @@
 
 
 <div style='float: center; text-align: center; margin-bottom: 20px' >
-  <a href='https://www.hackerrank.com/TalluriSumanth22' target="_blank">
+  <a href='https://www.hackerrank.com/okeoma' target="_blank">
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
@@ -25,11 +25,11 @@ I solved the challenges in Python Programming Language 🐍
 
 |  Day   |   Challenge                                               |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  00   |  [Hello, World](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2000:%20Hello%2C%20World)      |
-|  01   |  [Data Types](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2001:%20Data%20Types)      |
-|  02   |  [Operators](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2002:%20Operators)  |
-|  03   |  [Intro to Conditional Statements](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2003:%20Intro%20to%20Conditional%20Statements)    |
-|  04   |  [Class vs. Instance](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2004:%20Class%20vs.%20Instance)|
+|  00   |  [Hello, World](https://github.com/Okeoma/Hackerrank-30-Days-Code-Challenge/blob/main/00_HelloWorld.py)      |
+|  01   |  [Data Types](https://github.com/Okeoma/Hackerrank-30-Days-Code-Challenge/blob/main/00_HelloWorld.py)      |
+|  02   |  [Operators](https://github.com/Okeoma/Hackerrank-30-Days-Code-Challenge/blob/main/02_Operators.py)  |
+|  03   |  [Intro to Conditional Statements](https://github.com/Okeoma/Hackerrank-30-Days-Code-Challenge/blob/main/04_Class%20vs%20Instance.py)    |
+|  04   |  [Class vs. Instance](https://github.com/Okeoma/Hackerrank-30-Days-Code-Challenge/blob/main/04_Class%20vs%20Instance.py)|
 |  05   |  [Loops](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2005:%20Loops)  |
 |  06   |  [Let's Review](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2006:%20Let's%20Review) |
 |  07   |  [Arrays](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2007:%20Arrays)  |
