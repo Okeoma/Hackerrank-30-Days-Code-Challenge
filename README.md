@@ -18,7 +18,7 @@ I solved the challenges in Python Programming Language 🐍
 
 :computer: &nbsp; **View the Challenge [here](https://www.hackerrank.com/domains/tutorials/30-days-of-code)**
 
-:star: &nbsp; **View My Badge [here](https://www.hackerrank.com/TalluriSumanth22)** 
+:star: &nbsp; **View My Badge [here](https://www.hackerrank.com/okeoma** 
 
 
 &nbsp;
